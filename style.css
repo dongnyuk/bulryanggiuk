@@ -1,0 +1,21 @@
+#grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  border: 0;
+  padding: 0;
+}
+div{
+  border: 5px solid pink;
+  text-align: center;
+  padding: 40px;
+}
+h1{
+  border: 5px solid red;
+  text-align: center;
+  margin: 0;
+  padding: 40px;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
