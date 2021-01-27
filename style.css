@@ -10,8 +10,13 @@
   border: 0;
   padding: 0;
 }
+#content ul{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
 div{
-  border: 5px solid pink;
+  border: 5px solid green;
   text-align: center;
   padding: 40px;
 }
