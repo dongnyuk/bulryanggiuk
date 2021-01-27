@@ -4,12 +4,6 @@
     <meta charset="utf-8">
     <title>불량ㄱ</title>
     <style>
-      #grid{
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        border: 0;
-        padding: 0;
-      }
       div{
         border: 5px solid pink;
         text-align: center;
