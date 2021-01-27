@@ -1,24 +1,10 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>불량ㄱ</title>
+    <neta charset="utf-8">
+      <title>불량ㄱ</title>
     <style>
-      div{
-        border: 5px solid pink;
-        text-align: center;
-        padding: 40px;
-      }
-      h1{
-        border: 5px solid red;
-        text-align: center;
-        margin: 0;
-        padding: 40px;
-      }
-      a{
-        color: black;
-        text-decoration: none;
-      }
+      <link rel="stylesheet" href="style.css">
     </style>
   </head>
   <body>
